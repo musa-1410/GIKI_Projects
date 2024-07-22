@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive - Higher Education Commission\Desktop\GIKI\2nd Semester\CS112\CS112_Assignment6_2023330\CS112_2023330\CS112_2023330\x64\Debug\CS112_2023330.vcxproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Higher Education Commission\Desktop\GIKI\2nd Semester\CS112\CS112_Assignment6_2023330\CS112_2023330\CS112_2023330\x64\Debug\CS112_2023330.Form1.resources
+C:\Users\DELL\OneDrive - Higher Education Commission\Desktop\GIKI\2nd Semester\CS112\CS112_Assignment6_2023330\CS112_2023330\CS112_2023330\x64\Debug\CS112_2023330.vcxproj.GenerateResource.cache
+D:\CS112_Assignment6_2023330\CS112_2023330\CS112_2023330\x64\Debug\CS112_2023330.vcxproj.AssemblyReference.cache
+D:\CS112_Assignment6_2023330\CS112_2023330\CS112_2023330\x64\Debug\CS112_2023330.Form1.resources
+D:\CS112_Assignment6_2023330\CS112_2023330\CS112_2023330\x64\Debug\CS112_2023330.vcxproj.GenerateResource.cache
+D:\CS112_Assignment6_2023330\CS112_Assignment6_2023330\CS112_2023330\x64\Debug\CS112_2023330.vcxproj.AssemblyReference.cache
+D:\CS112_Assignment6_2023330\CS112_Assignment6_2023330\CS112_2023330\x64\Debug\CS112_2023330.Form1.resources
+D:\CS112_Assignment6_2023330\CS112_Assignment6_2023330\CS112_2023330\x64\Debug\CS112_2023330.vcxproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - Higher Education Commission\Desktop\GIKI\2nd Semester\CS112\CS112_Assignment6_2023330\CS112_2023330\x64\Debug\CS112_2023330.vcxproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Higher Education Commission\Desktop\GIKI\2nd Semester\CS112\CS112_Assignment6_2023330\CS112_2023330\x64\Debug\CS112_2023330.Form1.resources
+C:\Users\DELL\OneDrive - Higher Education Commission\Desktop\GIKI\2nd Semester\CS112\CS112_Assignment6_2023330\CS112_2023330\x64\Debug\CS112_2023330.vcxproj.GenerateResource.cache
